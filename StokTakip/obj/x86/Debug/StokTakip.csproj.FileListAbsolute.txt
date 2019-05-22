@@ -1,0 +1,383 @@
+C:\Users\Berkhan\Desktop\Programım\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+C:\Users\Berkhan\Desktop\Programım\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+C:\Users\Berkhan\Desktop\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.Form1.resources
+C:\Users\Berkhan\Desktop\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.Properties.Resources.resources
+C:\Users\Berkhan\Desktop\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.csproj.GenerateResource.Cache
+C:\Users\Berkhan\Desktop\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.exe
+C:\Users\Berkhan\Desktop\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.pdb
+C:\Users\Berkhan\Desktop\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.anasayfa.resources
+C:\Users\Berkhan\Desktop\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.admingiris.resources
+F:\Programım\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+F:\Programım\StokTakip\StokTakip\obj\x86\Debug\Interop.WMPLib.dll
+F:\Programım\StokTakip\StokTakip\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.csproj.ResolveComReference.cache
+F:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.exe
+F:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.pdb
+F:\Programım\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+F:\Programım\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+F:\Programım\StokTakip\StokTakip\bin\Debug\Interop.WMPLib.dll
+F:\Programım\StokTakip\StokTakip\bin\Debug\AxInterop.WMPLib.dll
+F:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.csprojResolveAssemblyReference.cache
+F:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminekle.resources
+F:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.admingiris.resources
+F:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminguncelle.resources
+F:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminsil.resources
+F:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.anasayfa.resources
+F:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.cariekranı.resources
+F:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.Form1.resources
+F:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.hareketlerekranı.resources
+F:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.kullanim.resources
+F:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.Properties.Resources.resources
+F:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.raporlama.resources
+F:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.satisekranı.resources
+F:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.sifremiunuttum.resources
+F:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.stokekranı.resources
+F:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.csproj.GenerateResource.Cache
+E:\Programım\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+E:\Programım\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+E:\Programım\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+E:\Programım\StokTakip\StokTakip\bin\Debug\Interop.WMPLib.dll
+E:\Programım\StokTakip\StokTakip\bin\Debug\AxInterop.WMPLib.dll
+E:\Programım\StokTakip\StokTakip\obj\x86\Debug\Interop.WMPLib.dll
+E:\Programım\StokTakip\StokTakip\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.csproj.ResolveComReference.cache
+E:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminekle.resources
+E:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.admingiris.resources
+E:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminguncelle.resources
+E:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminsil.resources
+E:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.anasayfa.resources
+E:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.cariekranı.resources
+E:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.Form1.resources
+E:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.hareketlerekranı.resources
+E:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.kullanim.resources
+E:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.Properties.Resources.resources
+E:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.raporlama.resources
+E:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.satisekranı.resources
+E:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.sifremiunuttum.resources
+E:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.stokekranı.resources
+E:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.exe
+E:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.pdb
+G:\Programım\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+G:\Programım\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+G:\Programım\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+G:\Programım\StokTakip\StokTakip\bin\Debug\Interop.WMPLib.dll
+G:\Programım\StokTakip\StokTakip\bin\Debug\AxInterop.WMPLib.dll
+G:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.csprojResolveAssemblyReference.cache
+G:\Programım\StokTakip\StokTakip\obj\x86\Debug\Interop.WMPLib.dll
+G:\Programım\StokTakip\StokTakip\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.csproj.ResolveComReference.cache
+G:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminekle.resources
+G:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.admingiris.resources
+G:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminguncelle.resources
+G:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminsil.resources
+G:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.anasayfa.resources
+G:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.cariekranı.resources
+G:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.Form1.resources
+G:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.hareketlerekranı.resources
+G:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.kullanim.resources
+G:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.Properties.Resources.resources
+G:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.raporlama.resources
+G:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.satisekranı.resources
+G:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.sifremiunuttum.resources
+G:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.stokekranı.resources
+G:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.csproj.GenerateResource.Cache
+G:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.exe
+G:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.pdb
+E:\Programım\StokTakip\StokTakip\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminraporlama.resources
+E:\Programım\StokTakip\StokTakip\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Programım\StokTakip\StokTakip\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Programım\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+D:\Programım\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+D:\Programım\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+D:\Programım\StokTakip\StokTakip\bin\Debug\Interop.WMPLib.dll
+D:\Programım\StokTakip\StokTakip\bin\Debug\AxInterop.WMPLib.dll
+D:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.csprojResolveAssemblyReference.cache
+D:\Programım\StokTakip\StokTakip\obj\x86\Debug\Interop.WMPLib.dll
+D:\Programım\StokTakip\StokTakip\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.csproj.ResolveComReference.cache
+D:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminekle.resources
+D:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.admingiris.resources
+D:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminguncelle.resources
+D:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminraporlama.resources
+D:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminsil.resources
+D:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.anasayfa.resources
+D:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.cariekranı.resources
+D:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.Form1.resources
+D:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.hareketlerekranı.resources
+D:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.kullanim.resources
+D:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.Properties.Resources.resources
+D:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.raporlama.resources
+D:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.satisekranı.resources
+D:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.sifremiunuttum.resources
+D:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.stokekranı.resources
+D:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.csproj.GenerateResource.Cache
+D:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.exe
+D:\Programım\StokTakip\StokTakip\obj\x86\Debug\StokTakip.pdb
+C:\Users\BerkhanÇalışma\Desktop\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.csprojResolveAssemblyReference.cache
+C:\Users\BerkhanÇalışma\Desktop\Programım2\StokTakip\StokTakip\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\BerkhanÇalışma\Desktop\Programım2\StokTakip\StokTakip\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\BerkhanÇalışma\Desktop\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.csproj.ResolveComReference.cache
+C:\Users\BerkhanÇalışma\Desktop\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminekle.resources
+C:\Users\BerkhanÇalışma\Desktop\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.admingiris.resources
+C:\Users\BerkhanÇalışma\Desktop\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminguncelle.resources
+C:\Users\BerkhanÇalışma\Desktop\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminraporlama.resources
+C:\Users\BerkhanÇalışma\Desktop\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminsil.resources
+C:\Users\BerkhanÇalışma\Desktop\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.anasayfa.resources
+C:\Users\BerkhanÇalışma\Desktop\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.cariekranı.resources
+C:\Users\BerkhanÇalışma\Desktop\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.Form1.resources
+C:\Users\BerkhanÇalışma\Desktop\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.hareketlerekranı.resources
+C:\Users\BerkhanÇalışma\Desktop\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.kullanim.resources
+C:\Users\BerkhanÇalışma\Desktop\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.Properties.Resources.resources
+C:\Users\BerkhanÇalışma\Desktop\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.raporlama.resources
+C:\Users\BerkhanÇalışma\Desktop\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.satisekranı.resources
+C:\Users\BerkhanÇalışma\Desktop\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.sifremiunuttum.resources
+C:\Users\BerkhanÇalışma\Desktop\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.stokekranı.resources
+C:\Users\BerkhanÇalışma\Desktop\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.csproj.GenerateResource.Cache
+C:\Users\BerkhanÇalışma\Desktop\Programım2\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+C:\Users\BerkhanÇalışma\Desktop\Programım2\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+C:\Users\BerkhanÇalışma\Desktop\Programım2\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+C:\Users\BerkhanÇalışma\Desktop\Programım2\StokTakip\StokTakip\bin\Debug\Interop.WMPLib.dll
+C:\Users\BerkhanÇalışma\Desktop\Programım2\StokTakip\StokTakip\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\BerkhanÇalışma\Desktop\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.exe
+C:\Users\BerkhanÇalışma\Desktop\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.pdb
+D:\Programım2\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+D:\Programım2\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+D:\Programım2\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+D:\Programım2\StokTakip\StokTakip\bin\Debug\Interop.WMPLib.dll
+D:\Programım2\StokTakip\StokTakip\bin\Debug\AxInterop.WMPLib.dll
+D:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.csprojResolveAssemblyReference.cache
+D:\Programım2\StokTakip\StokTakip\obj\x86\Debug\Interop.WMPLib.dll
+D:\Programım2\StokTakip\StokTakip\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.csproj.ResolveComReference.cache
+D:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminekle.resources
+D:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.admingiris.resources
+D:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminguncelle.resources
+D:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminraporlama.resources
+D:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminsil.resources
+D:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.anasayfa.resources
+D:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.cariekranı.resources
+D:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.Form1.resources
+D:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.hareketlerekranı.resources
+D:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.kullanim.resources
+D:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.Properties.Resources.resources
+D:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.raporlama.resources
+D:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.satisekranı.resources
+D:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.sifremiunuttum.resources
+D:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.stokekranı.resources
+D:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.csproj.GenerateResource.Cache
+D:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.exe
+D:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.pdb
+F:\Programım2\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+F:\Programım2\StokTakip\StokTakip\obj\x86\Debug\Interop.WMPLib.dll
+F:\Programım2\StokTakip\StokTakip\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.csproj.ResolveComReference.cache
+F:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.exe
+F:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.pdb
+F:\Programım2\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+F:\Programım2\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+F:\Programım2\StokTakip\StokTakip\bin\Debug\Interop.WMPLib.dll
+F:\Programım2\StokTakip\StokTakip\bin\Debug\AxInterop.WMPLib.dll
+F:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.csprojResolveAssemblyReference.cache
+F:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminekle.resources
+F:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.admingiris.resources
+F:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminguncelle.resources
+F:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminraporlama.resources
+F:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminsil.resources
+F:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.anasayfa.resources
+F:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.cariekranı.resources
+F:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.Form1.resources
+F:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.hareketlerekranı.resources
+F:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.kullanim.resources
+F:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.Properties.Resources.resources
+F:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.raporlama.resources
+F:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.satisekranı.resources
+F:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.sifremiunuttum.resources
+F:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.stokekranı.resources
+F:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.csproj.GenerateResource.Cache
+G:\Programım2\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+G:\Programım2\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+G:\Programım2\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+G:\Programım2\StokTakip\StokTakip\bin\Debug\Interop.WMPLib.dll
+G:\Programım2\StokTakip\StokTakip\bin\Debug\AxInterop.WMPLib.dll
+G:\Programım2\StokTakip\StokTakip\obj\x86\Debug\Interop.WMPLib.dll
+G:\Programım2\StokTakip\StokTakip\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.csproj.ResolveComReference.cache
+G:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminekle.resources
+G:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.admingiris.resources
+G:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminguncelle.resources
+G:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminraporlama.resources
+G:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminsil.resources
+G:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.anasayfa.resources
+G:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.cariekranı.resources
+G:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.Form1.resources
+G:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.hareketlerekranı.resources
+G:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.kullanim.resources
+G:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.Properties.Resources.resources
+G:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.raporlama.resources
+G:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.satisekranı.resources
+G:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.sifremiunuttum.resources
+G:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.stokekranı.resources
+G:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.csproj.GenerateResource.Cache
+G:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.exe
+G:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.pdb
+G:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.csprojResolveAssemblyReference.cache
+E:\Programım2\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+E:\Programım2\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+E:\Programım2\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+E:\Programım2\StokTakip\StokTakip\bin\Debug\Interop.WMPLib.dll
+E:\Programım2\StokTakip\StokTakip\bin\Debug\AxInterop.WMPLib.dll
+E:\Programım2\StokTakip\StokTakip\obj\x86\Debug\Interop.WMPLib.dll
+E:\Programım2\StokTakip\StokTakip\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.csproj.ResolveComReference.cache
+E:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminekle.resources
+E:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.admingiris.resources
+E:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminguncelle.resources
+E:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminraporlama.resources
+E:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminsil.resources
+E:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.anasayfa.resources
+E:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.cariekranı.resources
+E:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.Form1.resources
+E:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.hareketlerekranı.resources
+E:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.kullanim.resources
+E:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.Properties.Resources.resources
+E:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.raporlama.resources
+E:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.satisekranı.resources
+E:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.sifremiunuttum.resources
+E:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.stokekranı.resources
+E:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.csproj.GenerateResource.Cache
+E:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.exe
+E:\Programım2\StokTakip\StokTakip\obj\x86\Debug\StokTakip.pdb
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.csproj.ResolveComReference.cache
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.exe
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.pdb
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\FlashControlV71.dll
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\stdole.dll
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\Interop.WMPLib.dll
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.csprojResolveAssemblyReference.cache
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminekle.resources
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.admingiris.resources
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminguncelle.resources
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminraporlama.resources
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminsil.resources
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.anasayfa.resources
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.cariekranı.resources
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.Form1.resources
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.hareketlerekranı.resources
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.kullanim.resources
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.Properties.Resources.resources
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.raporlama.resources
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.satisekranı.resources
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.sifremiunuttum.resources
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.stokekranı.resources
+C:\Users\BerkhanÇalışma\Desktop\11-B PROGRAMLAR\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.csproj.GenerateResource.Cache
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\FlashControlV71.dll
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\stdole.dll
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\Interop.WMPLib.dll
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.csproj.ResolveComReference.cache
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminekle.resources
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.admingiris.resources
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminguncelle.resources
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminraporlama.resources
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminsil.resources
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.anasayfa.resources
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.cariekranı.resources
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.Form1.resources
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.hareketlerekranı.resources
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.kullanim.resources
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.Properties.Resources.resources
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.raporlama.resources
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.satisekranı.resources
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.sifremiunuttum.resources
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.stokekranı.resources
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.csproj.GenerateResource.Cache
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.exe
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.pdb
+C:\Users\Berkan\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.csprojResolveAssemblyReference.cache
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.csproj.ResolveComReference.cache
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.exe
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.pdb
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\stdole.dll
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\Interop.WMPLib.dll
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.csprojResolveAssemblyReference.cache
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminekle.resources
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.admingiris.resources
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminguncelle.resources
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminraporlama.resources
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.adminsil.resources
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.anasayfa.resources
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.cariekranı.resources
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.Form1.resources
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.hareketlerekranı.resources
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.kullanim.resources
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.Properties.Resources.resources
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.raporlama.resources
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.satisekranı.resources
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.sifremiunuttum.resources
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.stokekranı.resources
+C:\Users\berkh\Desktop\4036 Berkhan Akdağ(Stok Takip Programı)\StokTakip\StokTakip\obj\x86\Debug\StokTakip.csproj.GenerateResource.Cache
